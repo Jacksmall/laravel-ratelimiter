@@ -1,0 +1,21 @@
+{
+    "name": "jacksmall/laravel-ratelimiter",
+    "description": "Laravel Rate Limiter",
+    "require": {
+        "illuminate/support": "^8.83",
+        "guzzlehttp/guzzle": "^7.9",
+        "illuminate/http": "^8.83"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jacksmall\\LaravelRatelimiter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chenkuan",
+            "email": "812254315@qq.com"
+        }
+    ]
+}
